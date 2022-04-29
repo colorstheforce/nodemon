@@ -44,7 +44,7 @@
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
-    "async": "1.4.2",
+    "async": "2.6.4",
     "coffee-script": "~1.7.1",
     "eslint": "^7.11.0",
     "husky": "^0.14.3",
